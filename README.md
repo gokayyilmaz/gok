@@ -1,3 +1,3 @@
 # personal website
 a personal website with pure HTML & CSS:
-https://gokayyilmaz.github.io/personal-website/
+https://gokayyilmaz.github.io/site/
