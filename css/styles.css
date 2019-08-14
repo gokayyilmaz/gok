@@ -29,10 +29,20 @@ p {
   line-height: 2;
 }
 
+.col-lg-6 {
+  padding-left: 0px;
+  padding-right: 0px;
+  
+}
+
+
+
 .top-container {
   background-color: #222831;
   position: relative;
   padding-top: 100px;
+  
+
 }
 
 .middle-container {
@@ -102,6 +112,18 @@ hr {
 .intro {
   width: 30%;
   margin: auto;
+}
+
+.side-1 {
+  background-color: #222831;
+}
+
+.side-2 {
+  background-color: #393e46;
+}
+
+.side-3 {
+  background-color: #222831;
 }
 
 .butn {
